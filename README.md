@@ -1,4 +1,4 @@
-![Tanay Banner]()
+![Tanay Banner](https://github.com/tanay-arora/tanay-arora/blob/main/assets/Tanay.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Tanay</h2>
 
@@ -44,7 +44,7 @@
 
 <p align="center">
 <a href="https://github.com/tanay-arora">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanay-arora&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanay-arora&show_icons=true&theme=algolia&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanay-arora&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
