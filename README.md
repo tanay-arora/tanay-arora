@@ -53,7 +53,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://tanay-arora.github.io/"><img src="https://img.shields.io/badge/-tanay-arora.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://tanay-arora.github.io/"><img src="https://img.shields.io/badge/-tanay--arora.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tanay-arora-45b610203"><img src="https://img.shields.io/badge/-tanay%20arora-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:it.tanay.arora@gmail.com"><img src="https://img.shields.io/badge/-it.tanay.arora@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/arora__tanay"><img src="https://img.shields.io/badge/-@arora__tanay-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
