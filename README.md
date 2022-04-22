@@ -24,8 +24,8 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-02122B?style=flat&logo=kotlin)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-02122B?style=flat&logo=angular)\
-![Tyescript](https://img.shields.io/badge/-TypeScript-02122B?style=flat&logo=typescript)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-02122B?style=flat&logo=angular)&nbsp;
+![Tyescript](https://img.shields.io/badge/-TypeScript-02122B?style=flat&logo=typescript)\
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -35,7 +35,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-02122B?style=flat&logo=firebase)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-02122B?style=flat&logo=firebase)\
 ![Lighthouse](https://img.shields.io/badge/-LightHouse-02122B?style=flat&logo=lighthouse)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Material Design](https://img.shields.io/badge/-Material--design-02122B?style=flat&logo=material-design)&nbsp;
