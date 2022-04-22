@@ -1,4 +1,4 @@
-![Tanay Banner](https://github.com/tanay-arora/tanay-arora/blob/main/assets/Tanay.jpg)
+![Tanay Banner](https://github.com/tanay-arora/tanay-arora/blob/main/assets/Tanay_small.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Tanay</h2>
 
