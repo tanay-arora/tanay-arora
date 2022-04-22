@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at it.tanay.arora@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="" align="right"/>
+<img alt="Night Coding" src="./assets/Night%20Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
