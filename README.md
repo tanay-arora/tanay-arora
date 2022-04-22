@@ -35,8 +35,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-02122B?style=flat&logo=firebase)\
 ![Lighthouse](https://img.shields.io/badge/-LightHouse-02122B?style=flat&logo=lighthouse)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-02122B?style=flat&logo=firebase)\
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Material Design](https://img.shields.io/badge/-Material--design-02122B?style=flat&logo=material-design)&nbsp;
 
