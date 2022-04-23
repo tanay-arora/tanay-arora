@@ -22,7 +22,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-02122B?style=flat&logo=kotlin)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-02122B?style=flat&logo=angular)&nbsp;
 ![Tyescript](https://img.shields.io/badge/-TypeScript-02122B?style=flat&logo=typescript)\
@@ -39,6 +38,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-02122B?style=flat&logo=firebase)\
 ![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
 ![Material Design](https://img.shields.io/badge/-Material--design-02122B?style=flat&logo=material-design)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
