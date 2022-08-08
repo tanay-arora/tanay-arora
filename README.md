@@ -56,5 +56,5 @@
 <a href="https://www.linkedin.com/in/tanay-arora-45b610203"><img src="https://img.shields.io/badge/-tanay%20arora-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:it.tanay.arora@gmail.com"><img src="https://img.shields.io/badge/-it.tanay.arora@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/arora__tanay"><img src="https://img.shields.io/badge/-@arora__tanay-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/tanayluthra.01"><img src="https://img.shields.io/badge/-@Tanay%20Arora-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/i.tanay.arora"><img src="https://img.shields.io/badge/-@Tanay%20Arora-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
