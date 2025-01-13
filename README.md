@@ -45,7 +45,7 @@
 <p align="center">
 <a href="https://github.com/tanay-arora">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dalathegreat&show_icons=true&theme=algolia&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dalathegreat&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bramstroker&layout=compact&langs_count=7&theme=algolia"/>
 </a>
 </p>
 
